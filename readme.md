@@ -4,4 +4,4 @@ which is a great *handbook* for practicing and learning basic data structures an
 
 Check out the link below of the handbook if you are interested :
 
-**link: `<a>https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/?fbclid=IwAR2Eqz2k4NSqT3v0fuXft22EVMVEtkda0PMtDzKdWYo7lX_GxqfytWLJ1oc</a>`**
+link: <a>https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/?fbclid=IwAR2Eqz2k4NSqT3v0fuXft22EVMVEtkda0PMtDzKdWYo7lX_GxqfytWLJ1oc</a>
